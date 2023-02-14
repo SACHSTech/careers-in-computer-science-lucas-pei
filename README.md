@@ -22,5 +22,10 @@ Paste career description here
 ## Experiencial Learning Opportunities
 
 ## Real World Jobs
-
+| |Entry Level|Mid Level|Senior Level|
+|-----|------------- |-------------| -----------|
+|Salary|Words|Words|Word|
+|City|Words|Words|Words|
+|Job Description|Words|Words|Words|
+|Outstanding Skills|Words|Words|Words|
 ## Words Cited
