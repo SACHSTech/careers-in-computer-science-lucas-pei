@@ -6,18 +6,20 @@ Paste career description here
 ## Job Duties and Responsibilities 
 * **Duty 1:** 
 * **Duty 2:**
-* **Duty 3:**
-
-## Required Education 
+* **Duty 3:** 
 
 ## Technical Skills
 
 ## Non-Technical Skills
 
+## Required Education
+
 ## Chosen Uni Program Here
 ### Entrance Requirements
 
-### First Year Description
+### First Year Courses
+1. Course 1
+2. Course 2
 
 ## Experiencial Learning Opportunities
 
