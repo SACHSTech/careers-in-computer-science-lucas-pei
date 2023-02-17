@@ -19,7 +19,7 @@ Paste career description here
 
 ### Degree
 
-### [University of Waterloo Computer Science](https://uwaterloo.ca/future-students/programs/computer-science "U of W Com Sci Website")
+### [University of Waterloo Computer Science](https://uwaterloo.ca/future-students/programs/computer-science)
 <img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="500">
 
 ### Entrance Requirements
@@ -37,11 +37,13 @@ Paste career description here
 ## Experiencial Learning Opportunities
 
 ## Real World Jobs
-The median salary of a software developer in Canada is $78,998 annually. Entry-level positions make $66,531, and experienced software developers make up to $110,000.
+The median salary of a software developer in Canada is $78,998 annually. Entry-level positions make $66,531, and experienced software developers make up to $110,000. These are three real three actual job postings:
 | |Entry Level|Mid Level|Senior Level|
 |-----|-------------|-------------|-----------|
-|Salary|Words|Words|Word|
-|City|Words|Words|Words|
-|Job Description|Words|Words|Words|
-|Outstanding Skills|Words|Words|Words|
+|Company|Words|Words|Bank of Canada|
+|Salary|Words|Words|$88505-$110630|
+|City|Words|Words|Toronto|
+|Job Description|Words|Words|We are seeking an innovative and skilled web portal developer to join our Retail Payments Supervision team! We are a collaborative and diverse team within ITS with the mission to carry out the roadmap of an effective regulatory IT platform to meet the requirements of the Bank of Canada’s role in supervising payment service providers (PSPs).|
+|Additional Skills|Words|Words|Experience working with business analysts or user experience (UX) designers to creatively translate business requirements and designs into interactive web portal functionality|
+|Job Posting|Words|Words|[Indeed](https://ca.indeed.com/viewjob?jk=acdf97ce9e0ae9ea&tk=1gpfvav76ir3i802&from=serp&vjs=3&advn=3967133856909150&adid=391109432&ad=-6NYlbfkN0BLPcwp45_P_qAjawN3sy1akHpLABjOwWqDB2GgAmZLEiCjkCAK3KF9Uloe13u3Zcx0zIiWbbOCECoxgxHwkozi1_crW1iGb8dbUQ2_-ACT9xGAH_gHYgCmPZySDacgdOPysmQ_nyXEhib2qKxXESJu7JuSlHFA90Z5Brm-WKmJHJOzDEdBqO0ax1vvxLRZrXHbiFgCCL-G0VTDIoiOuvV6MEGMJuD_n0H2Dlvy5kfFIcIgMb7g3vUKkbQBF-lRIrAe2xfnjZ9Xu4bpWaPobB4xz394iZ_Z9EzAO4TeU6bZjdqKiYT9A1OdwBn7_gubpZHfo1UJkOcZhZqO3x2m9E2juUwzbMUmNcQKTuiqIr25vCW7IFwH-1vwf87HCLSY-tE9todpSI2lZ1bREfDkD9SrtwKyIW9A-MLlsJ5qqsgqApjf9py2wypc&sjdu=0ZFwD5rbjMRcHz87Kzx_gzIouWHnNhFfaoy7ezMz_HShz-wYqm9so32ojvK-ZOFAC9wkUJGs3kbBOOIBrAZQlSDfYuhlr0P4kQ1JKGskfA4nDoDAEVxBBe7MikcX2JMdh6H6sqfUju8sjTqp9gosgbLORW1CT4Zf__fH6mUuthERRyiuYJL95OCb9r9EfE_TOlaW4IsNnUuRq7ORlafssIkTy_HECqtS_zx-7dM3dBHrFzSEG0fLBAT6-Gd-1wEl )|
 ## Words Cited
