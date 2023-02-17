@@ -20,14 +20,20 @@ Paste career description here
 ### Entrance Requirements
 
 ### First Year Courses
-1. Course 1
-2. Course 2
+1. **CS 135:** Designing Functional Programs
+2. **MATH 135:** Algebra for Honours Mathematics
+3. **MATH 137:** Calculus 1 for Honours Mathematics
+4. **CS 136:** Elementary Algorithm Design and Data Abstraction
+5. **CS 136L** Tools and Techniques for Software Development
+6. **CS 136L** Tools and Techniques for Software Development
+7. **MATH 136** Linear Algebra 1 for Honours Mathematics
+8. **MATH 138** Calculus 2 for Honours Mathematics
 
 ## Experiencial Learning Opportunities
 
 ## Real World Jobs
 | |Entry Level|Mid Level|Senior Level|
-|-----|------------- |-------------| -----------|
+|-----|-------------|-------------|-----------|
 |Salary|Words|Words|Word|
 |City|Words|Words|Words|
 |Job Description|Words|Words|Words|
