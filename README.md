@@ -1,12 +1,15 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10087304&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science - Software Developer <img src="https://www.seekpng.com/png/detail/90-905776_laptop-clipart-clipart-free-download-computer-clipart.png" width="35">
-## Career Description: 
+## **Career Description:** 
+
+### What Does A Software Developer Do?
 Paste career description here
 
-## Job Duties and Responsibilities 
-* **Duty 1:** 
-* **Duty 2:**
-* **Duty 3:** 
+### Job Duties and Responsibilities 
+* **Analyze the needs of the users:** Software developers need to understand what their users require so that they can tailor the software to address these needs
+* **Planning:** Software developers are responsible for mapping out the process that will be used to develop code through flowcharts, diagrams, and models.
+* **Create and Test Code:** This is the process in which software developers write and perfect the code that will perform the tasks that benefit its users
+* **Improving Existing Software:** Software developers need to make constant innovative changes to software so that it evolves, allowing it to better serve its users.
 
 ## Technical Skills
 
