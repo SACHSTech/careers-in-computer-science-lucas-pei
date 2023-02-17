@@ -14,7 +14,9 @@ Paste career description here
 
 ## Required Education
 
-## Chosen Uni Program Here
+## [University of Waterloo Computer Science](https://uwaterloo.ca/future-students/programs/computer-science "U of W Com Sci Website")
+<img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="500">
+
 ### Entrance Requirements
 
 ### First Year Courses
