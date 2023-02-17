@@ -15,9 +15,11 @@ Paste career description here
 
 ## Non-Technical Skills
 
-## Required Education
+## Education
 
-## [University of Waterloo Computer Science](https://uwaterloo.ca/future-students/programs/computer-science "U of W Com Sci Website")
+### Degree
+
+### [University of Waterloo Computer Science](https://uwaterloo.ca/future-students/programs/computer-science "U of W Com Sci Website")
 <img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="500">
 
 ### Entrance Requirements
@@ -35,6 +37,7 @@ Paste career description here
 ## Experiencial Learning Opportunities
 
 ## Real World Jobs
+The median salary of a software developer in Canada is $78,998 annually. Entry-level positions make $66,531, and experienced software developers make up to $110,000.
 | |Entry Level|Mid Level|Senior Level|
 |-----|-------------|-------------|-----------|
 |Salary|Words|Words|Word|
