@@ -12,6 +12,7 @@ Paste career description here
 * **Improving Existing Software:** Software developers need to make constant innovative changes to software so that it evolves, allowing it to serve its users better.
 
 ### Technical Skills
+* **Coding Languages:** Software developers should be experts in at least one coding language, as employers seek expertise. Languages include JavaScript, Python, HTML, C++, and Java. Depending on personal interests and employer requirements, software developers will choose to learn a specific language. 
 
 ### Non-Technical Skills
 
