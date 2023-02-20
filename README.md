@@ -54,6 +54,11 @@ Although not mandatory, applicants are encouraged to write the Euclid and Canadi
 In order to receive a diploma from this program, students must take 7.75 Computer Science units, 3.5 Mathematics units, and 8.75 Non-Mathematics Elective units. 
 
 ## **How Can I Gain Beneficial Experience?**
+### Codecademy:
+Codecademy is a free online program that offers interactive coding courses in 12 different languages with over 50 million users that are spread across 190 different countries. This is a way to learn the languages necessary to be employed as a software developer at a self-directed pace in any location in a web browser.
+
+<img src="https://images.codecademy.com/social/logo-codecademy-social.png" width="650">
+
 
 ## **What Do Real World Jobs Look Like?**
 The average annual salary of a software developer in Canada is $80,000. Entry-level positions make $67,594, and experienced software developers make up to $123,017. These are three real three actual job postings:
@@ -81,8 +86,8 @@ Nikoletta Bika. “Software Developer Job Description.” Recruiting Resources: 
 
 Robert Half Talen Solutions. “Software Developer Job Description and Duties | Robert Half.” Roberthalf.com.au, 11 Sept. 2017, www.roberthalf.com.au/employers/it-technology/software-developer-jobs#:~:text=Researching%2C%20designing%2C%20implementing%2C%20and,Writing%20and%20implementing%20efficient%20code. Accessed 14 Feb. 2023.
 
-SeekPNG. “Laptop Clipart Clipart Free Download - Computer Clipart PNG Image | Transparent PNG Free Download on SeekPNG.” SeekPNG.com, 2019, www.seekpng.com/ipng/u2q8t4u2q8t4w7a9_laptop-clipart-clipart-free-download-computer-clipart/. Accessed 14 Feb. 2023.
-Talent.Com. Software Developer Salary in Canada - Average Salary.” Talent.com, 2023, ca.talent.com/salary?job=software+developer. Accessed 15 Feb. 2023.
+SeekPNG. “Laptop Clipart Clipart Free Download - Computer Clipart PNG Image | Transparent PNG Free Download on SeekPNG.” SeekPNG.com, 2019, <>www.seekpng.com/ipng/u2q8t4u2q8t4w7a9_laptop-clipart-clipart-free-download-computer-clipart/. Accessed 14 Feb. 2023.
 
-The University of Waterloo. “Waterloo Now Requires Vaccination for Students Living in Residence | Waterloo News.” Waterloo News, 22 July 2021, uwaterloo.ca/news/waterloo-now-requires-vaccination-students-living-residence. Accessed 20 Feb. 2023.
+Talent.Com. Software Developer Salary in Canada - Average Salary.” Talent.com, 2023, <https://ca.talent.com/salary?job=software+developer>. Accessed 15 Feb. 2023.
 
+The University of Waterloo. “Waterloo Now Requires Vaccination for Students Living in Residence | Waterloo News.” Waterloo News, 22 July 2021, <https://uwaterloo.ca/news/waterloo-now-requires-vaccination-students-living-residence>. Accessed 20 Feb. 2023.
