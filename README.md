@@ -1,22 +1,26 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10087304&assignment_repo_type=AssignmentRepo)
-# **Careers in Computer Science - Software Developer**   <img src="https://www.seekpng.com/png/detail/90-905776_laptop-clipart-clipart-free-download-computer-clipart.png" width="35">
+# **Careers in Computer Science - Software Developer** <img src="https://www.seekpng.com/png/detail/90-905776_laptop-clipart-clipart-free-download-computer-clipart.png" width="35">
 ## **What Is A Software Developer?** 
 
 ### Career Description:
 Software developers are the minds behind computer programs. They oversee the creation process of code by designing, building, executing, and maintaining software to ensure it meets the needs of their client. The demand for software to solve issues means that software developers work in a variety of industries, as the demand for their services continues to rise in the 21st century.
 
-### Duties and Responsibilities 
+### Duties and Responsibilities: 
 * **Analyze the needs of the users:** Software developers need to understand what their users require so that they can tailor the software to address these needs
 * **Planning:** Software developers are responsible for mapping out the process that will be used to develop code through flowcharts, diagrams, and models.
 * **Create and Test Code:** This is the process in which software developers write and perfect the code that will perform the tasks that benefit its users
 * **Improving Existing Software:** Software developers need to make constant innovative changes to software so that it evolves, allowing it to serve its users better.
 
 ### Technical Skills:
+<img src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-768x512.jpg" width="650">
+
 * **Coding Languages:** Software developers should be experts in at least one coding language, as employers seek expertise. Languages include JavaScript, Python, HTML, C++, and Java. Depending on personal interests and employer requirements, software developers will choose to learn a specific language. 
 * **Testing:** Software developers should understand the testing process, as programs need to undergo thorough testing before it is released to its intended users.
 * **Debugging:** Software developers need to know how to debug code so that errors can be addressed and fixed. Strong debugging skills and strategies makes the process of debugging quick and effective. 
 
 ### Non-Technical Skills:
+<img src="https://kissflow.com/hubfs/What-is-Collaboration-768x407.jpg" width="650">
+
 * **Collaboration:** Software developers work in teams, and it is important to have the collaboration skills necessary to create a positive and productive working environment.
 * **Problem Solving:** Software developers need to have the curiosity and the capacity to solve the problems faced by a company’s users to create a successful progam. 
 * **Time Management:** Software developers have to have proper time management skills, as they are often allocated more than one task at a time. This will allow for high productivity to meet deadlines.
