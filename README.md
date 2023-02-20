@@ -25,6 +25,8 @@ Software Developers require a a *bachelor’s degree* in computer science, softw
 
 ### Entrance Requirements
 To be considered for admission into computer science at The University of Waterloo, applicants are required to take 6 U/M grade 12 courses that include Calculus and Vectors, Advanced Functions, and Grade 12 English. Applicants are also required to fill out the Admissions Information Form (AIF) for their application to be considered. 
+
+Although not mandatory, applicants are encouraged to write the Euclid and Canadian Senior Mathematics Contests, as well as take grade 11 U Introduction to Computer Science.
 ### First Year Courses
 1. **CS 135:** Designing Functional Programs
 2. **MATH 135:** Algebra for Honours Mathematics
