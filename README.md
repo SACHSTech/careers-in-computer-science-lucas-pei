@@ -27,7 +27,9 @@ Software Developers require a a *bachelor’s degree* in computer science, softw
 
 ### Program Spotlight: [Computer Science at The University of Waterloo](https://uwaterloo.ca/future-students/programs/computer-science)
 <img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="650">
-The Computer Science program at The University of Waterloo offers a four year regular program or a co-op program with an extra year of education. Graduates earn a Bachelor of Computer Science or a Bachelor in Mathematics. 
+<br/>
+
+The Computer Science program at The University of Waterloo offers a four-year regular program or a co-op program with an extra year of education. Graduates earn a Bachelor of Computer Science or a Bachelor in Mathematics. 
 
 ### Entrance Requirements
 To be considered for admission into computer science at The University of Waterloo, applicants are required to take 6 U/M Grade 12 courses that include Calculus and Vectors, Advanced Functions, and Grade 12 English. Applicants are also required to fill out the Admissions Information Form (AIF) for their application to be considered. 
@@ -45,6 +47,11 @@ Although not mandatory, applicants are encouraged to write the Euclid and Canadi
 6. **CS 136L:** Tools and Techniques for Software Development
 7. **MATH 136:** Linear Algebra 1 for Honours Mathematics
 8. **MATH 138:** Calculus 2 for Honours Mathematics
+
+<img src="https://bpndr.wpenginepowered.com/wp-content/uploads/2020/03/21132533_web1_200331-SNE-UniGradCeremonies-grad_1-1024x683.jpg" width="650">
+
+### Diploma Requirements
+In order to receive a diploma from this program, students must take 7.75 Computer Science units, 3.5 Mathematics units, and 8.75 Non-Mathematics Elective units. 
 
 ## **How Can I Gain Beneficial Experience?**
 
