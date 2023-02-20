@@ -3,9 +3,9 @@
 ## **What Is A Software Developer?** 
 
 ### Career Description:
-Paste career description here
+Software developers are the minds behind computer programs. They oversee the creation process of code by designing, building, executing, and maintaining software to ensure it meets the needs of their client. The demand for software to solve issues means that software developers work in a variety of industries, as the demand for their services continues to rise in the 21st century.
 
-### Job Duties and Responsibilities 
+### Duties and Responsibilities 
 * **Analyze the needs of the users:** Software developers need to understand what their users require so that they can tailor the software to address these needs
 * **Planning:** Software developers are responsible for mapping out the process that will be used to develop code through flowcharts, diagrams, and models.
 * **Create and Test Code:** This is the process in which software developers write and perfect the code that will perform the tasks that benefit its users
@@ -54,7 +54,7 @@ Although not mandatory, applicants are encouraged to write the Euclid and Canadi
 In order to receive a diploma from this program, students must take 7.75 Computer Science units, 3.5 Mathematics units, and 8.75 Non-Mathematics Elective units. 
 
 ## **How Can I Gain Beneficial Experience?**
-### Codecademy:
+### [Codecademy:](https://www.codecademy.com/)
 Codecademy is a free online program that offers interactive coding courses in 12 different languages with over 50 million users that are spread across 190 different countries. This is a way to learn the languages necessary to be employed as a software developer at a self-directed pace in any location in a web browser.
 
 <img src="https://images.codecademy.com/social/logo-codecademy-social.png" width="650">
