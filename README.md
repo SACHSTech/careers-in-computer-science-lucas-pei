@@ -21,26 +21,32 @@ Paste career description here
 Software Developers require a a *bachelor’s degree* in computer science, software engineering, and other related fields.
 
 ### Program Spotlight: [Computer Science at the University of Waterloo](https://uwaterloo.ca/future-students/programs/computer-science)
-<img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="500">
+<img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="650">
 
 ### Entrance Requirements
 To be considered for admission into computer science at The University of Waterloo, applicants are required to take 6 U/M grade 12 courses that include Calculus and Vectors, Advanced Functions, and Grade 12 English. Applicants are also required to fill out the Admissions Information Form (AIF) for their application to be considered. 
 
 Although not mandatory, applicants are encouraged to write the Euclid and Canadian Senior Mathematics Contests, as well as take grade 11 U Introduction to Computer Science.
+
+<img src="https://uwaterloo.ca/news/sites/ca.news/files/styles/feature_large/public/dsc_1602_full_res_1.jpg?itok=-F8flulW" width="650">
+
 ### First Year Courses
 1. **CS 135:** Designing Functional Programs
 2. **MATH 135:** Algebra for Honours Mathematics
 3. **MATH 137:** Calculus 1 for Honours Mathematics
 4. **CS 136:** Elementary Algorithm Design and Data Abstraction
-5. **CS 136L** Tools and Techniques for Software Development
-6. **CS 136L** Tools and Techniques for Software Development
-7. **MATH 136** Linear Algebra 1 for Honours Mathematics
-8. **MATH 138** Calculus 2 for Honours Mathematics
+5. **CS 136L:** Tools and Techniques for Software Development
+6. **CS 136L:** Tools and Techniques for Software Development
+7. **MATH 136:** Linear Algebra 1 for Honours Mathematics
+8. **MATH 138:** Calculus 2 for Honours Mathematics
 
 ## **How Can I Gain Beneficial Experience?**
 
 ## **What Do Real World Jobs Look Like?**
-The median salary of a software developer in Canada is $78,998 annually. Entry-level positions make $66,531, and experienced software developers make up to $110,000. These are three real three actual job postings:
+The average annual salary of a software developer in Canada is $80,000. Entry-level positions make $67,575, and experienced software developers make up to $121,606. These are three real three actual job postings:
+
+<img src="https://cdn-static.talent.com/img/salary-graph-talent.png" width="650">
+
 | |Entry Level|Mid Level|Senior Level|
 |-----|-------------|-------------|-----------|
 |Company|Words|Words|Bank of Canada|
