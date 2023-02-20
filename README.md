@@ -12,7 +12,7 @@ Software developers are the minds behind computer programs. They oversee the cre
 * **Improving Existing Software:** Software developers need to make constant innovative changes to software so that it evolves, allowing it to serve its users better.
 
 ### Technical Skills:
-<img src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-768x512.jpg" width="650">
+<img src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-768x512.jpg" width="800">
 
 * **Coding Languages:** Software developers should be experts in at least one coding language, as employers seek expertise. Languages include JavaScript, Python, HTML, C++, and Java. Depending on personal interests and employer requirements, software developers will choose to learn a specific language. 
 * **Testing:** Software developers should understand the testing process, as programs need to undergo thorough testing before it is released to its intended users.
