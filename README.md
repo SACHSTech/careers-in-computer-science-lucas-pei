@@ -18,6 +18,7 @@ Paste career description here
 ## Education
 
 ### Degree
+Software Developers require a a bachelor’s degree in computer science, software engineering, and other related fields.
 
 ### [University of Waterloo Computer Science](https://uwaterloo.ca/future-students/programs/computer-science)
 <img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="500">
