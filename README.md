@@ -28,7 +28,7 @@ Software developers are the minds behind computer programs. They oversee the cre
 ## **What Education Is Required?**
 
 ### Degree:
-Software Developers require a a *bachelor’s degree* in computer science, software engineering, and other related fields.
+Software Developers require a bachelor’s degree in computer science, software engineering, or other related fields.
 
 ### Program Spotlight: [Computer Science at The University of Waterloo:](https://uwaterloo.ca/future-students/programs/computer-science)
 <img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="650">
