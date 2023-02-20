@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10087304&assignment_repo_type=AssignmentRepo)
-# Careers in Computer Science - Software Developer <img src="https://www.seekpng.com/png/detail/90-905776_laptop-clipart-clipart-free-download-computer-clipart.png" width="35">
+# **Careers in Computer Science - Software Developer**   <img src="https://www.seekpng.com/png/detail/90-905776_laptop-clipart-clipart-free-download-computer-clipart.png" width="35">
 ## **What Is A Software Developer?** 
 
 ### Career Description
@@ -24,7 +24,7 @@ Software Developers require a a *bachelor’s degree* in computer science, softw
 <img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="500">
 
 ### Entrance Requirements
-
+To be considered for admission into computer science at The University of Waterloo, applicants are required to take 6 U/M grade 12 courses that include Calculus and Vectors, Advanced Functions, and Grade 12 English. Applicants are also required to fill out the Admissions Information Form (AIF) for their application to be considered. 
 ### First Year Courses
 1. **CS 135:** Designing Functional Programs
 2. **MATH 135:** Algebra for Honours Mathematics
@@ -35,7 +35,7 @@ Software Developers require a a *bachelor’s degree* in computer science, softw
 7. **MATH 136** Linear Algebra 1 for Honours Mathematics
 8. **MATH 138** Calculus 2 for Honours Mathematics
 
-## **How Can I Gain Experience That Is Beneficial?**
+## **How Can I Gain Beneficial Experience?**
 
 ## **What Do Real World Jobs Look Like?**
 The median salary of a software developer in Canada is $78,998 annually. Entry-level positions make $66,531, and experienced software developers make up to $110,000. These are three real three actual job postings:
