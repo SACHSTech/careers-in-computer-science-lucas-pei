@@ -2,7 +2,7 @@
 # **Careers in Computer Science - Software Developer**   <img src="https://www.seekpng.com/png/detail/90-905776_laptop-clipart-clipart-free-download-computer-clipart.png" width="35">
 ## **What Is A Software Developer?** 
 
-### Career Description
+### Career Description:
 Paste career description here
 
 ### Job Duties and Responsibilities 
@@ -11,34 +11,34 @@ Paste career description here
 * **Create and Test Code:** This is the process in which software developers write and perfect the code that will perform the tasks that benefit its users
 * **Improving Existing Software:** Software developers need to make constant innovative changes to software so that it evolves, allowing it to serve its users better.
 
-### Technical Skills
+### Technical Skills:
 * **Coding Languages:** Software developers should be experts in at least one coding language, as employers seek expertise. Languages include JavaScript, Python, HTML, C++, and Java. Depending on personal interests and employer requirements, software developers will choose to learn a specific language. 
 * **Testing:** Software developers should understand the testing process, as programs need to undergo thorough testing before it is released to its intended users.
 * **Debugging:** Software developers need to know how to debug code so that errors can be addressed and fixed. Strong debugging skills and strategies makes the process of debugging quick and effective. 
 
-### Non-Technical Skills
+### Non-Technical Skills:
 * **Collaboration:** Software developers work in teams, and it is important to have the collaboration skills necessary to create a positive and productive working environment.
 * **Problem Solving:** Software developers need to have the curiosity and the capacity to solve the problems faced by a company’s users to create a successful progam. 
 * **Time Management:** Software developers have to have proper time management skills, as they are often allocated more than one task at a time. This will allow for high productivity to meet deadlines.
 ## **What Education Do I Need?**
 
-### Degree
+### Degree:
 Software Developers require a a *bachelor’s degree* in computer science, software engineering, and other related fields.
 
-### Program Spotlight: [Computer Science at The University of Waterloo](https://uwaterloo.ca/future-students/programs/computer-science)
+### Program Spotlight: [Computer Science at The University of Waterloo:](https://uwaterloo.ca/future-students/programs/computer-science)
 <img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="650">
 <br/>
 
 The Computer Science program at The University of Waterloo offers a four-year regular program or a co-op program with an extra year of education. Graduates earn a Bachelor of Computer Science or a Bachelor in Mathematics. 
 
-### Entrance Requirements
+### Entrance Requirements:
 To be considered for admission into computer science at The University of Waterloo, applicants are required to take 6 U/M Grade 12 courses that include Calculus and Vectors, Advanced Functions, and Grade 12 English. Applicants are also required to fill out the Admissions Information Form (AIF) for their application to be considered. 
 
 Although not mandatory, applicants are encouraged to write the Euclid and Canadian Senior Mathematics Contests, the Canadian Computing Competition, and take Grade 11 U Introduction to Computer Science.
 
 <img src="https://uwaterloo.ca/news/sites/ca.news/files/styles/feature_large/public/dsc_1602_full_res_1.jpg?itok=-F8flulW" width="650">
 
-### First Year Courses
+### First Year Courses:
 1. **CS 135:** Designing Functional Programs
 2. **MATH 135:** Algebra for Honours Mathematics
 3. **MATH 137:** Calculus 1 for Honours Mathematics
@@ -50,7 +50,7 @@ Although not mandatory, applicants are encouraged to write the Euclid and Canadi
 
 <img src="https://bpndr.wpenginepowered.com/wp-content/uploads/2020/03/21132533_web1_200331-SNE-UniGradCeremonies-grad_1-1024x683.jpg" width="650">
 
-### Diploma Requirements
+### Diploma Requirements:
 In order to receive a diploma from this program, students must take 7.75 Computer Science units, 3.5 Mathematics units, and 8.75 Non-Mathematics Elective units. 
 
 ## **How Can I Gain Beneficial Experience?**
@@ -59,6 +59,10 @@ Codecademy is a free online program that offers interactive coding courses in 12
 
 <img src="https://images.codecademy.com/social/logo-codecademy-social.png" width="650">
 
+### Recreational Sports: 
+Registering for local recreational team sports is a great way to improve the non-technical skills required to be a software developer. The collaboration and time constraints required to succeed in team sports develop these skills that make for a better software developer. It also provides an experience that can be used in job interviews to demonstrate these skills.
+
+<img src="https://www.vmcdn.ca/f/files/halifaxtoday/images/sports/060820-sports-adobestock_4437963.jpeg" width="650">
 
 ## **What Do Real World Jobs Look Like?**
 The average annual salary of a software developer in Canada is $80,000. Entry-level positions make $67,594, and experienced software developers make up to $123,017. These are three real three actual job postings:
@@ -73,7 +77,7 @@ The average annual salary of a software developer in Canada is $80,000. Entry-le
 |**Job Description**|As the Software Developer, you will have a blend of responsibilities that will require a hands-on approach and result in being a key contributor to the development of software. Intellifi believes in achieving the highest possible quality, maintain our reputation of ease of use, performance, and reliability. If you’re passionate about driving innovative solutions this role is for you!|The Software Engineer will be responsible for providing, development, implementation and support various for Enterprise Technology, ensuring Bank standards and best practices are followed during the development of application code. The incumbent is responsible for current and future implementation projects within the group, introducing new technologies to meet business objectives and providing technical support to all development projects. The successful candidate considers themselves a full-stack engineer, who can modify, write a RESTful API, and implement a data backend, write high-performance software.|We are seeking an innovative and skilled web portal developer to join our Retail Payments Supervision team! We are a collaborative and diverse team within ITS with the mission to carry out the roadmap of an effective regulatory IT platform to meet the requirements of the Bank of Canada’s role in supervising payment service providers (PSPs).|
 |**Additional Skills**|Analysis, design, development, and deployment of large-scale enterprise application systems.|Working closely with onshore and offshore vendor partners to ensure that solutions being delivered are of necessary quality and align with project goals.|Experience working with business analysts or user experience (UX) designers to creatively translate business requirements and designs into interactive web portal functionality.|
 |**Job Posting**|[Indeed](https://ca.indeed.com/viewjob?jk=42e092f112ef8c31&q=software+developer&l=Markham%2C+ON&tk=1gpo9encfhdhd801&from=web&advn=5544185286166312&adid=400477945&ad=-6NYlbfkN0AoOOzIOdrxgG87hQIQxgTk5ooypsKb_eSmPkRazyJpsRfJt8UPjB6kgQnIIg3gl6zBaNjHypoK-ATxS5pu6DsfkEubklfzqVHrgqRgiesIzUmNmjmK312D-ql1H77-K6nQfqYHgAMX-FDWO8C_D5l3PSPMfYQ3FYWuFYWPTa3CWQGWX25rHzwMuYFjEoDy83g20qIBQwDfQqAIX77A_fd7M3CZsPVhYH7FBMtQHHuwI15YlLOFmoYm-qrKqZXiIL88Q6EbusfTrS0R03X0nrOCukbBrHc0PrVfp0fMYu3LEkvft2yGBB72zkX4o_GfAA7TWW5RPNEmT33ihqTZ2K1X1UmIVHmxjKq1rBdcfY_5wUN3meRRTflhQOCdHjAeETNrqANRIh1RHV7EjySuu11FXNHT4hkGEiylbYIuXEipow%3D%3D&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDY-_M3T4a1K7g2Ib0IbzkdCdPP&vjs=3 )|[Indeed](https://ca.indeed.com/viewjob?jk=a0994cb45815b174&tk=1gpoahjjhjksp800&from=serp&vjs=3 )|[Indeed](https://ca.indeed.com/viewjob?jk=acdf97ce9e0ae9ea&tk=1gpfvav76ir3i802&from=serp&vjs=3&advn=3967133856909150&adid=391109432&ad=-6NYlbfkN0BLPcwp45_P_qAjawN3sy1akHpLABjOwWqDB2GgAmZLEiCjkCAK3KF9Uloe13u3Zcx0zIiWbbOCECoxgxHwkozi1_crW1iGb8dbUQ2_-ACT9xGAH_gHYgCmPZySDacgdOPysmQ_nyXEhib2qKxXESJu7JuSlHFA90Z5Brm-WKmJHJOzDEdBqO0ax1vvxLRZrXHbiFgCCL-G0VTDIoiOuvV6MEGMJuD_n0H2Dlvy5kfFIcIgMb7g3vUKkbQBF-lRIrAe2xfnjZ9Xu4bpWaPobB4xz394iZ_Z9EzAO4TeU6bZjdqKiYT9A1OdwBn7_gubpZHfo1UJkOcZhZqO3x2m9E2juUwzbMUmNcQKTuiqIr25vCW7IFwH-1vwf87HCLSY-tE9todpSI2lZ1bREfDkD9SrtwKyIW9A-MLlsJ5qqsgqApjf9py2wypc&sjdu=0ZFwD5rbjMRcHz87Kzx_gzIouWHnNhFfaoy7ezMz_HShz-wYqm9so32ojvK-ZOFAC9wkUJGs3kbBOOIBrAZQlSDfYuhlr0P4kQ1JKGskfA4nDoDAEVxBBe7MikcX2JMdh6H6sqfUju8sjTqp9gosgbLORW1CT4Zf__fH6mUuthERRyiuYJL95OCb9r9EfE_TOlaW4IsNnUuRq7ORlafssIkTy_HECqtS_zx-7dM3dBHrFzSEG0fLBAT6-Gd-1wEl )|
-## Words Cited
+## Words Cited:
 
 Code Insititute. “6 Non-Technical Skills a Software Developer - Code Institute Global.” Code Institute Global, 13 Sept. 2022, codeinstitute.net/global/blog/6-essential-non-technical-skills-a-software-developer-should-have-in-2022/. Accessed 20 Feb. 2023.
 
