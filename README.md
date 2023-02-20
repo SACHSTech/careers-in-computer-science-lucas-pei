@@ -1,8 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10087304&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science - Software Developer <img src="https://www.seekpng.com/png/detail/90-905776_laptop-clipart-clipart-free-download-computer-clipart.png" width="35">
-## **Career Description:** 
+## **What Is A Software Developer?** 
 
-### What Does A Software Developer Do?
+### Career Description
 Paste career description here
 
 ### Job Duties and Responsibilities 
@@ -11,16 +11,16 @@ Paste career description here
 * **Create and Test Code:** This is the process in which software developers write and perfect the code that will perform the tasks that benefit its users
 * **Improving Existing Software:** Software developers need to make constant innovative changes to software so that it evolves, allowing it to serve its users better.
 
-## Technical Skills
+### Technical Skills
 
-## Non-Technical Skills
+### Non-Technical Skills
 
-## Education
+## **What Education Do I Need?**
 
 ### Degree
 Software Developers require a a *bachelor’s degree* in computer science, software engineering, and other related fields.
 
-### [University of Waterloo Computer Science](https://uwaterloo.ca/future-students/programs/computer-science)
+### Program Spotlight: [Computer Science at the University of Waterloo](https://uwaterloo.ca/future-students/programs/computer-science)
 <img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="500">
 
 ### Entrance Requirements
@@ -35,9 +35,9 @@ Software Developers require a a *bachelor’s degree* in computer science, softw
 7. **MATH 136** Linear Algebra 1 for Honours Mathematics
 8. **MATH 138** Calculus 2 for Honours Mathematics
 
-## Experiencial Learning Opportunities
+## **How Can I Gain Experience That Is Beneficial?**
 
-## Real World Jobs
+## **What Do Real World Jobs Look Like?**
 The median salary of a software developer in Canada is $78,998 annually. Entry-level positions make $66,531, and experienced software developers make up to $110,000. These are three real three actual job postings:
 | |Entry Level|Mid Level|Senior Level|
 |-----|-------------|-------------|-----------|
