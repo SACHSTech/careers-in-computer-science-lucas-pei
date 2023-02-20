@@ -11,7 +11,6 @@ Paste career description here
 * **Create and Test Code:** This is the process in which software developers write and perfect the code that will perform the tasks that benefit its users
 * **Improving Existing Software:** Software developers need to make constant innovative changes to software so that it evolves, allowing it to serve its users better.
 
-
 ## Technical Skills
 
 ## Non-Technical Skills
@@ -19,7 +18,7 @@ Paste career description here
 ## Education
 
 ### Degree
-Software Developers require a a bachelor’s degree in computer science, software engineering, and other related fields.
+Software Developers require a a *bachelor’s degree* in computer science, software engineering, and other related fields.
 
 ### [University of Waterloo Computer Science](https://uwaterloo.ca/future-students/programs/computer-science)
 <img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="500">
