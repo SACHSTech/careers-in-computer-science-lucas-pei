@@ -19,19 +19,20 @@ Paste career description here
 ### Non-Technical Skills
 * **Collaboration:** Software developers work in teams, and it is important to have the collaboration skills necessary to create a positive and productive working environment.
 * **Problem Solving:** Software developers need to have the curiosity and the capacity to solve the problems faced by a company’s users to create a successful progam. 
-* 
+* **Time Management:** Software developers have to have proper time management skills, as they are often allocated more than one task at a time. This will allow for high productivity to meet deadlines.
 ## **What Education Do I Need?**
 
 ### Degree
 Software Developers require a a *bachelor’s degree* in computer science, software engineering, and other related fields.
 
-### Program Spotlight: [Computer Science at the University of Waterloo](https://uwaterloo.ca/future-students/programs/computer-science)
+### Program Spotlight: [Computer Science at The University of Waterloo](https://uwaterloo.ca/future-students/programs/computer-science)
 <img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="650">
+The Computer Science program at The University of Waterloo offers a four year regular program or a co-op program with an extra year of education. Graduates earn a Bachelor of Computer Science or a Bachelor in Mathematics. 
 
 ### Entrance Requirements
-To be considered for admission into computer science at The University of Waterloo, applicants are required to take 6 U/M grade 12 courses that include Calculus and Vectors, Advanced Functions, and Grade 12 English. Applicants are also required to fill out the Admissions Information Form (AIF) for their application to be considered. 
+To be considered for admission into computer science at The University of Waterloo, applicants are required to take 6 U/M Grade 12 courses that include Calculus and Vectors, Advanced Functions, and Grade 12 English. Applicants are also required to fill out the Admissions Information Form (AIF) for their application to be considered. 
 
-Although not mandatory, applicants are encouraged to write the Euclid and Canadian Senior Mathematics Contests, as well as take grade 11 U Introduction to Computer Science.
+Although not mandatory, applicants are encouraged to write the Euclid and Canadian Senior Mathematics Contests, the Canadian Computing Competition, and take Grade 11 U Introduction to Computer Science.
 
 <img src="https://uwaterloo.ca/news/sites/ca.news/files/styles/feature_large/public/dsc_1602_full_res_1.jpg?itok=-F8flulW" width="650">
 
