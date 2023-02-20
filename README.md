@@ -17,7 +17,9 @@ Paste career description here
 * **Debugging:** Software developers need to know how to debug code so that errors can be addressed and fixed. Strong debugging skills and strategies makes the process of debugging quick and effective. 
 
 ### Non-Technical Skills
-
+* **Collaboration:** Software developers work in teams, and it is important to have the collaboration skills necessary to create a positive and productive working environment.
+* **Problem Solving:** Software developers need to have the curiosity and the capacity to solve the problems faced by a company’s users to create a successful progam. 
+* 
 ## **What Education Do I Need?**
 
 ### Degree
