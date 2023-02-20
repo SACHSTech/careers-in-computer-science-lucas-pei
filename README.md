@@ -13,6 +13,8 @@ Paste career description here
 
 ### Technical Skills
 * **Coding Languages:** Software developers should be experts in at least one coding language, as employers seek expertise. Languages include JavaScript, Python, HTML, C++, and Java. Depending on personal interests and employer requirements, software developers will choose to learn a specific language. 
+* **Testing:** Software developers should understand the testing process, as programs need to undergo thorough testing before it is released to its intended users.
+* **Debugging:** Software developers need to know how to debug code so that errors can be addressed and fixed. Strong debugging skills and strategies makes the process of debugging quick and effective. 
 
 ### Non-Technical Skills
 
