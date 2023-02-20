@@ -9,7 +9,8 @@ Paste career description here
 * **Analyze the needs of the users:** Software developers need to understand what their users require so that they can tailor the software to address these needs
 * **Planning:** Software developers are responsible for mapping out the process that will be used to develop code through flowcharts, diagrams, and models.
 * **Create and Test Code:** This is the process in which software developers write and perfect the code that will perform the tasks that benefit its users
-* **Improving Existing Software:** Software developers need to make constant innovative changes to software so that it evolves, allowing it to better serve its users.
+* **Improving Existing Software:** Software developers need to make constant innovative changes to software so that it evolves, allowing it to serve its users better.
+
 
 ## Technical Skills
 
