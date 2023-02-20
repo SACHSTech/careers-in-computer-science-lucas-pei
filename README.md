@@ -19,7 +19,7 @@ Software developers are the minds behind computer programs. They oversee the cre
 * **Debugging:** Software developers need to know how to debug code so that errors can be addressed and fixed. Strong debugging skills and strategies makes the process of debugging quick and effective. 
 
 ### Non-Technical Skills:
-<img src="https://kissflow.com/hubfs/What-is-Collaboration-768x407.jpg" width="650">
+<img src="https://kissflow.com/hubfs/What-is-Collaboration-768x407.jpg" width="800">
 
 * **Collaboration:** Software developers work in teams, and it is important to have the collaboration skills necessary to create a positive and productive working environment.
 * **Problem Solving:** Software developers need to have the curiosity and the capacity to solve the problems faced by a company’s users to create a successful progam. 
@@ -31,7 +31,7 @@ Software developers are the minds behind computer programs. They oversee the cre
 Software Developers require a bachelor’s degree in computer science, software engineering, or other related fields.
 
 ### Program Spotlight: [Computer Science at The University of Waterloo:](https://uwaterloo.ca/future-students/programs/computer-science)
-<img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="650">
+<img src="https://ssc.ca/sites/default/files/imce/liaison/abkashlak/waterloo_0.png" width="800">
 <br/>
 
 The Computer Science program at The University of Waterloo offers a four-year regular program or a co-op program with an extra year of education. Graduates earn a Bachelor of Computer Science or a Bachelor in Mathematics. 
@@ -41,7 +41,7 @@ To be considered for admission into computer science at The University of Waterl
 
 Although not mandatory, applicants are encouraged to write the Euclid and Canadian Senior Mathematics Contests, the Canadian Computing Competition, and take Grade 11 U Introduction to Computer Science.
 
-<img src="https://uwaterloo.ca/news/sites/ca.news/files/styles/feature_large/public/dsc_1602_full_res_1.jpg?itok=-F8flulW" width="650">
+<img src="https://uwaterloo.ca/news/sites/ca.news/files/styles/feature_large/public/dsc_1602_full_res_1.jpg?itok=-F8flulW" width="800">
 
 ### First Year Courses:
 1. **CS 135:** Designing Functional Programs
@@ -53,7 +53,7 @@ Although not mandatory, applicants are encouraged to write the Euclid and Canadi
 7. **MATH 136:** Linear Algebra 1 for Honours Mathematics
 8. **MATH 138:** Calculus 2 for Honours Mathematics
 
-<img src="https://bpndr.wpenginepowered.com/wp-content/uploads/2020/03/21132533_web1_200331-SNE-UniGradCeremonies-grad_1-1024x683.jpg" width="650">
+<img src="https://bpndr.wpenginepowered.com/wp-content/uploads/2020/03/21132533_web1_200331-SNE-UniGradCeremonies-grad_1-1024x683.jpg" width="800">
 
 ### Diploma Requirements:
 In order to receive a diploma from this program, students must take 7.75 Computer Science units, 3.5 Mathematics units, and 8.75 Non-Mathematics Elective units. 
@@ -62,17 +62,17 @@ In order to receive a diploma from this program, students must take 7.75 Compute
 ### [Codecademy:](https://www.codecademy.com/)
 Codecademy is a free online program that offers interactive coding courses in 12 different languages with over 50 million users that are spread across 190 different countries. This is a way to learn the languages necessary to be employed as a software developer at a self-directed pace in any location in a web browser.
 
-<img src="https://images.codecademy.com/social/logo-codecademy-social.png" width="650">
+<img src="https://images.codecademy.com/social/logo-codecademy-social.png" width="800">
 
 ### Recreational Sports: 
 Registering for local recreational team sports is a great way to improve the non-technical skills required to be a software developer. The collaboration and time constraints required to succeed in team sports develop these skills that make for a better software developer. It also provides an experience that can be used in job interviews to demonstrate these skills.
 
-<img src="https://www.vmcdn.ca/f/files/halifaxtoday/images/sports/060820-sports-adobestock_4437963.jpeg" width="650">
+<img src="https://www.vmcdn.ca/f/files/halifaxtoday/images/sports/060820-sports-adobestock_4437963.jpeg" width="800">
 
 ## **What Do Real World Jobs Look Like?**
 The average annual salary of a software developer in Canada is $80,000. Entry-level positions make $67,594, and experienced software developers make up to $123,017. These are three real three actual job postings:
 
-<img src="https://i.imgur.com/wsrQIrU.png" width="650">
+<img src="https://i.imgur.com/wsrQIrU.png" width="800">
 
 </br>
 
