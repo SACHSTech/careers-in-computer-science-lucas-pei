@@ -101,12 +101,20 @@ Indeed. “12 Software Developer Skills to Learn (with Examples).” Indeed Care
 
 Indeed. “Web Portal Developer (Ottawa or Toronto) - Ontario - Indeed.com.” Indeed.com, 2016, <https://ca.indeed.com/viewjob?jk=acdf97ce9e0ae9ea&tk=1gpfvav76ir3i802&from=serp&vjs=3&advn=3967133856909150&adid=391109432&ad=-6NYlbfkN0BLPcwp45_P_qAjawN3sy1akHpLABjOwWqDB2GgAmZLEiCjkCAK3KF9Uloe13u3Zcx0zIiWbbOCECoxgxHwkozi1_crW1iGb8dbUQ2_-ACT9xGAH_gHYgCmPZySDacgdOPysmQ_nyXEhib2qKxXESJu7JuSlHFA90Z5Brm-WKmJHJOzDEdBqO0ax1vvxLRZrXHbiFgCCL-G0VTDIoiOuvV6MEGMJuD_n0H2Dlvy5kfFIcIgMb7g3vUKkbQBF-lRIrAe2xfnjZ9Xu4bpWaPobB4xz394iZ_Z9EzAO4TeU6bZjdqKiYT9A1OdwBn7_gubpZHfo1UJkOcZhZqO3x2m9E2juUwzbMUmNcQKTuiqIr25vCW7IFwH-1vwf87HCLSY-tE9todpSI2lZ1bREfDkD9SrtwKyIW9A-MLlsJ5qqsgqApjf9py2wypc&sjdu=0ZFwD5rbjMRcHz87Kzx_gzIouWHnNhFfaoy7ezMz_HShz-wYqm9so32ojvK-ZOFAC9wkUJGs3kbBOOIBrAZQlSDfYuhlr0P4kQ1JKGskfA4nDoDAEVxBBe7MikcX2JMdh6H6sqfUju8sjTqp9gosgbLORW1CT4Zf__fH6mUuthERRyiuYJL95OCb9r9EfE_TOlaW4IsNnUuRq7ORlafssIkTy_HECqtS_zx-7dM3dBHrFzSEG0fLBAT6-Gd-1wEl>. Accessed 20 Feb. 2023.
 
-Kissflow. “What Is Collaboration? Types of Collaboration.” Kissflow.com, Kissflow, Mar. 2022, kissflow.com/digital-workplace/collaboration/what-is-collaboration/. Accessed 20 Feb. 2023.
-Malvik, Callie. “What Does a Software Developer Do? A Deep Dive into the Career.” Rasmussen.edu, 2020, www.rasmussen.edu/degrees/technology/blog/what-does-software-developer-do/. Accessed 14 Feb. 2023.
-McLaughlin, Holly. “Codecademy.” PCMAG, PCMag, 2021, www.pcmag.com/reviews/codecademy. Accessed 20 Feb. 2023.
-Nikoletta Bika. “Software Developer Job Description.” Recruiting Resources: How to Recruit and Hire Better, 20 Apr. 2017, resources.workable.com/software-developer-job-description. Accessed 15 Feb. 2023.
-Robert Half Talen Solutions. “Software Developer Job Description and Duties | Robert Half.” Roberthalf.com.au, 11 Sept. 2017, www.roberthalf.com.au/employers/it-technology/software-developer-jobs#:~:text=Researching%2C%20designing%2C%20implementing%2C%20and,Writing%20and%20implementing%20efficient%20code. Accessed 14 Feb. 2023.
-Sebastian-Scott, James. “Sports Science Becoming More Prevalent for Athletes.” CityNews Kitchener, CityNews Kitchener, 9 Apr. 2021, kitchener.citynews.ca/jobs-of-the-future/sports-science-becoming-more-prevalent-for-athletes-3618448. Accessed 20 Feb. 2023.
-SeekPNG. “Laptop Clipart Clipart Free Download - Computer Clipart PNG Image | Transparent PNG Free Download on SeekPNG.” SeekPNG.com, 2019, www.seekpng.com/ipng/u2q8t4u2q8t4w7a9_laptop-clipart-clipart-free-download-computer-clipart/. Accessed 14 Feb. 2023.
-Talent.Com. Software Developer Salary in Canada - Average Salary.” Talent.com, 2023, ca.talent.com/salary?job=software+developer. Accessed 15 Feb. 2023.
-The University of Waterloo. “Waterloo Now Requires Vaccination for Students Living in Residence | Waterloo News.” Waterloo News, 22 July 2021, uwaterloo.ca/news/waterloo-now-requires-vaccination-students-living-residence. Accessed 20 Feb. 2023.
+Kissflow. “What Is Collaboration? Types of Collaboration.” Kissflow.com, Kissflow, Mar. 2022, <https://kissflow.com/digital-workplace/collaboration/what-is-collaboration/>. Accessed 20 Feb. 2023.
+
+Malvik, Callie. “What Does a Software Developer Do? A Deep Dive into the Career.” Rasmussen.edu, 2020, <https://www.rasmussen.edu/degrees/technology/blog/what-does-software-developer-do/>. Accessed 14 Feb. 2023.
+
+McLaughlin, Holly. “Codecademy.” PCMAG, PCMag, 2021, <https://www.pcmag.com/reviews/codecademy>. Accessed 20 Feb. 2023.
+
+Nikoletta Bika. “Software Developer Job Description.” Recruiting Resources: How to Recruit and Hire Better, 20 Apr. 2017, <https://resources.workable.com/software-developer-job-description>. Accessed 15 Feb. 2023.
+
+Robert Half Talen Solutions. “Software Developer Job Description and Duties | Robert Half.” Roberthalf.com.au, 11 Sept. 2017, <https://www.roberthalf.com.au/employers/it-technology/software-developer-jobs#:~:text=Researching%2C%20designing%2C%20implementing%2C%20and,Writing%20and%20implementing%20efficient%20code>. Accessed 14 Feb. 2023.
+
+Sebastian-Scott, James. “Sports Science Becoming More Prevalent for Athletes.” CityNews Kitchener, CityNews Kitchener, 9 Apr. 2021, Kitchener. <https://kitchener.citynews.ca/jobs-of-the-future/sports-science-becoming-more-prevalent-for-athletes-3618448>. Accessed 20 Feb. 2023.
+
+SeekPNG. “Laptop Clipart Clipart Free Download - Computer Clipart PNG Image | Transparent PNG Free Download on SeekPNG.” SeekPNG.com, 2019, <https://www.seekpng.com/ipng/u2q8t4u2q8t4w7a9_laptop-clipart-clipart-free-download-computer-clipart/>. Accessed 14 Feb. 2023.
+
+Talent.Com. Software Developer Salary in Canada - Average Salary.” Talent.com, 2023, <https://ca.talent.com/salary?job=software+developer>. Accessed 15 Feb. 2023.
+
+The University of Waterloo. “Waterloo Now Requires Vaccination for Students Living in Residence | Waterloo News.” Waterloo News, 22 July 2021, <https://uwaterloo.ca/news/waterloo-now-requires-vaccination-students-living-residence>. Accessed 20 Feb. 2023.
