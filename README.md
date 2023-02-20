@@ -56,9 +56,9 @@ In order to receive a diploma from this program, students must take 7.75 Compute
 ## **How Can I Gain Beneficial Experience?**
 
 ## **What Do Real World Jobs Look Like?**
-The average annual salary of a software developer in Canada is $80,000. Entry-level positions make $67,575, and experienced software developers make up to $121,606. These are three real three actual job postings:
+The average annual salary of a software developer in Canada is $80,000. Entry-level positions make $67,594, and experienced software developers make up to $123,017. These are three real three actual job postings:
 
-<img src="https://cdn-static.talent.com/img/salary-graph-talent.png" width="650">
+<img src="https://i.imgur.com/wsrQIrU.png" width="650">
 
 | |Entry Level|Mid Level|Senior Level|
 |-----|-------------|-------------|-----------|
@@ -69,3 +69,20 @@ The average annual salary of a software developer in Canada is $80,000. Entry-le
 |Additional Skills|Words|Words|Experience working with business analysts or user experience (UX) designers to creatively translate business requirements and designs into interactive web portal functionality|
 |Job Posting|Words|Words|[Indeed](https://ca.indeed.com/viewjob?jk=acdf97ce9e0ae9ea&tk=1gpfvav76ir3i802&from=serp&vjs=3&advn=3967133856909150&adid=391109432&ad=-6NYlbfkN0BLPcwp45_P_qAjawN3sy1akHpLABjOwWqDB2GgAmZLEiCjkCAK3KF9Uloe13u3Zcx0zIiWbbOCECoxgxHwkozi1_crW1iGb8dbUQ2_-ACT9xGAH_gHYgCmPZySDacgdOPysmQ_nyXEhib2qKxXESJu7JuSlHFA90Z5Brm-WKmJHJOzDEdBqO0ax1vvxLRZrXHbiFgCCL-G0VTDIoiOuvV6MEGMJuD_n0H2Dlvy5kfFIcIgMb7g3vUKkbQBF-lRIrAe2xfnjZ9Xu4bpWaPobB4xz394iZ_Z9EzAO4TeU6bZjdqKiYT9A1OdwBn7_gubpZHfo1UJkOcZhZqO3x2m9E2juUwzbMUmNcQKTuiqIr25vCW7IFwH-1vwf87HCLSY-tE9todpSI2lZ1bREfDkD9SrtwKyIW9A-MLlsJ5qqsgqApjf9py2wypc&sjdu=0ZFwD5rbjMRcHz87Kzx_gzIouWHnNhFfaoy7ezMz_HShz-wYqm9so32ojvK-ZOFAC9wkUJGs3kbBOOIBrAZQlSDfYuhlr0P4kQ1JKGskfA4nDoDAEVxBBe7MikcX2JMdh6H6sqfUju8sjTqp9gosgbLORW1CT4Zf__fH6mUuthERRyiuYJL95OCb9r9EfE_TOlaW4IsNnUuRq7ORlafssIkTy_HECqtS_zx-7dM3dBHrFzSEG0fLBAT6-Gd-1wEl )|
 ## Words Cited
+
+Code Insititute. “6 Non-Technical Skills a Software Developer - Code Institute Global.” Code Institute Global, 13 Sept. 2022, codeinstitute.net/global/blog/6-essential-non-technical-skills-a-software-developer-should-have-in-2022/. Accessed 20 Feb. 2023.
+
+Government of Canada. “Computer Software Engineer in Canada | Job Requirements - Job Bank.” Jobbank.gc.ca, 2021, www.jobbank.gc.ca/marketreport/requirements/5485/ca. Accessed 20 Feb. 2023. 
+Indeed. “12 Software Developer Skills to Learn (with Examples).” Indeed Career Guide, 18 Aug. 2021, www.indeed.com/career-advice/career-development/software-developer-skills. Accessed 20 Feb. 2023.
+
+Malvik, Callie. “What Does a Software Developer Do? A Deep Dive into the Career.” Rasmussen.edu, 2020, www.rasmussen.edu/degrees/technology/blog/what-does-software-developer-do/. Accessed 14 Feb. 2023.
+
+Nikoletta Bika. “Software Developer Job Description.” Recruiting Resources: How to Recruit and Hire Better, 20 Apr. 2017, resources.workable.com/software-developer-job-description. Accessed 15 Feb. 2023.
+
+Robert Half Talen Solutions. “Software Developer Job Description and Duties | Robert Half.” Roberthalf.com.au, 11 Sept. 2017, www.roberthalf.com.au/employers/it-technology/software-developer-jobs#:~:text=Researching%2C%20designing%2C%20implementing%2C%20and,Writing%20and%20implementing%20efficient%20code. Accessed 14 Feb. 2023.
+
+SeekPNG. “Laptop Clipart Clipart Free Download - Computer Clipart PNG Image | Transparent PNG Free Download on SeekPNG.” SeekPNG.com, 2019, www.seekpng.com/ipng/u2q8t4u2q8t4w7a9_laptop-clipart-clipart-free-download-computer-clipart/. Accessed 14 Feb. 2023.
+Talent.Com. Software Developer Salary in Canada - Average Salary.” Talent.com, 2023, ca.talent.com/salary?job=software+developer. Accessed 15 Feb. 2023.
+
+The University of Waterloo. “Waterloo Now Requires Vaccination for Students Living in Residence | Waterloo News.” Waterloo News, 22 July 2021, uwaterloo.ca/news/waterloo-now-requires-vaccination-students-living-residence. Accessed 20 Feb. 2023.
+
