@@ -19,7 +19,7 @@ Software developers are the minds behind computer programs. They oversee the cre
 * **Debugging:** Software developers need to know how to debug code so that errors can be addressed and fixed. Strong debugging skills and strategies make the process of debugging quick and effective.  
 
 ### Non-Technical Skills:
-<img src="https://kissflow.com/hubfs/What-is-Collaboration-768x407.jpg" width="800">
+<img src="https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/2022/iStock-1306949457.jpg" width="800">
 
 * **Collaboration:** Software developers work in teams, and it is important to have the collaboration skills necessary to create a positive and productive working environment.
 * **Problem Solving:** Software developers need to have the curiosity and the capacity to solve the problems faced by a company’s users to create a successful program. 
@@ -115,6 +115,8 @@ McLaughlin, Holly. “Codecademy.” *PCMAG*, PCMag, 2021, <https://www.pcmag.co
 Nikoletta Bika. “Software Developer Job Description.” *Recruiting Resources: How to Recruit and Hire Better*, 20 Apr. 2017, <https://resources.workable.com/software-developer-job-description>. Accessed 15 Feb. 2023.
 
 Robert Half Talen Solutions. “Software Developer Job Description and Duties | Robert Half.” *Roberthalf.com.au*, 11 Sept. 2017, <https://www.roberthalf.com.au/employers/it-technology/software-developer-jobs#:~:text=Researching%2C%20designing%2C%20implementing%2C%20and,Writing%20and%20implementing%20efficient%20code>. Accessed 14 Feb. 2023.
+
+Salesforce. “5 Ways to Use Slack to Encourage Collaboration.” *Salesforce Canada Blog*, 2022, <https://www.salesforce.com/ca/blog/2022/07/3-ways-to-use-slack-to-encourage-collaboration.html>. Accessed 21 Feb. 2023.
 
 Sebastian-Scott, James. “Sports Science Becoming More Prevalent for Athletes.” *CityNews Kitchener*, CityNews Kitchener, 9 Apr. 2021, Kitchener. <https://kitchener.citynews.ca/jobs-of-the-future/sports-science-becoming-more-prevalent-for-athletes-3618448>. Accessed 20 Feb. 2023.
 
