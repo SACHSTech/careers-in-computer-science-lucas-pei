@@ -96,9 +96,11 @@ Computer Science Degree Hub. “What Is Coding? - Computer Science Degree Hub.�
 
 Government of Canada. “Computer Software Engineer in Canada | Job Requirements - Job Bank.” *Jobbank.gc.ca*, 2021, <https://www.jobbank.gc.ca/marketreport/requirements/5485/ca>. Accessed 20 Feb. 2023. 
 
-Indeed. “Software Engineer - Toronto, on - Indeed.com.” *Indeed.com*, 2023, <https://ca.indeed.com/viewjob?jk=a0994cb45815b174&tk=1gpoahjjhjksp800&from=serp&vjs=3>. Accessed 20 Feb. 2023.
-
 Indeed. “Software Developer - Markham, on - Indeed.com.” *Indeed*.com, 2023,<https://ca.indeed.com/viewjob?jk=42e092f112ef8c31&q=software+developer&l=Markham%2C+ON&tk=1gpo9encfhdhd801&from=web&advn=5544185286166312&adid=400477945&ad=-6NYlbfkN0AoOOzIOdrxgG87hQIQxgTk5ooypsKb_eSmPkRazyJpsRfJt8UPjB6kgQnIIg3gl6zBaNjHypoK-ATxS5pu6DsfkEubklfzqVHrgqRgiesIzUmNmjmK312D-ql1H77-K6nQfqYHgAMX-FDWO8C_D5l3PSPMfYQ3FYWuFYWPTa3CWQGWX25rHzwMuYFjEoDy83g20qIBQwDfQqAIX77A_fd7M3CZsPVhYH7FBMtQHHuwI15YlLOFmoYm-qrKqZXiIL88Q6EbusfTrS0R03X0nrOCukbBrHc0PrVfp0fMYu3LEkvft2yGBB72zkX4o_GfAA7TWW5RPNEmT33ihqTZ2K1X1UmIVHmxjKq1rBdcfY_5wUN3meRRTflhQOCdHjAeETNrqANRIh1RHV7EjySuu11FXNHT4hkGEiylbYIuXEipow%3D%3D&pub=4a1b367933fd867b19b072952f68dceb&xkcb=SoDY-_M3T4a1K7g2Ib0IbzkdCdPP&vjs=3>. Accessed 20 Feb. 2023.
+
+Indeed. “Software Engineer - API Development - North York, on - Indeed.com.” *Indeed*.com, 2021, <https://ca.indeed.com/viewjob?jk=00b31b8861510bc0&tk=1gpogfspek7em800&from=serp&vjs=3>. Accessed 21 Feb. 2023.
+
+Indeed. “Software Engineer - Toronto, on - Indeed.com.” *Indeed.com*, 2023, <https://ca.indeed.com/viewjob?jk=a0994cb45815b174&tk=1gpoahjjhjksp800&from=serp&vjs=3>. Accessed 20 Feb. 2023.
 
 Indeed. “12 Software Developer Skills to Learn (with Examples).” *Indeed Career Guide*, 18 Aug. 2021, <https://www.indeed.com/career-advice/career-development/software-developer-skills>. Accessed 20 Feb. 2023.
 
