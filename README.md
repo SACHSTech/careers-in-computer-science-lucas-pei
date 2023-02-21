@@ -3,26 +3,26 @@
 ## **What Is A Software Developer?** 
 
 ### Career Description:
-Software developers are the minds behind computer programs. They oversee the creation process of code by designing, building, executing, and maintaining software to ensure it meets the needs of their client. The demand for software to solve issues means that software developers work in a variety of industries, as the demand for their services continues to rise in the 21st century.
+Software developers are the minds behind computer programs. They oversee the creation process of code by designing, building, executing, and maintaining software to ensure it meets the needs of their client. The demand for software to solve issues means that software developers work in a variety of industries, as the demand for their services continues to rise in the 21st century
 
 ### Duties and Responsibilities: 
 * **Analyze the needs of the users:** Software developers need to understand what their users require so that they can tailor the software to address these needs
 * **Planning:** Software developers are responsible for mapping out the process that will be used to develop code through flowcharts, diagrams, and models.
-* **Create and Test Code:** This is the process in which software developers write and perfect the code that will perform the tasks that benefit its users
+* **Create and Test Code:** This is the process in which software developers write and perfect the code that will perform the tasks that benefit their users
 * **Improving Existing Software:** Software developers need to make constant innovative changes to software so that it evolves, allowing it to serve its users better.
 
 ### Technical Skills:
 <img src="https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-768x512.jpg" width="800">
 
 * **Coding Languages:** Software developers should be experts in at least one coding language, as employers seek expertise. Languages include JavaScript, Python, HTML, C++, and Java. Depending on personal interests and employer requirements, software developers will choose to learn a specific language. 
-* **Testing:** Software developers should understand the testing process, as programs need to undergo thorough testing before it is released to its intended users.
-* **Debugging:** Software developers need to know how to debug code so that errors can be addressed and fixed. Strong debugging skills and strategies makes the process of debugging quick and effective. 
+* **Testing:** Software developers should understand the testing process, as programs need to undergo thorough testing before it is released to their intended users.
+* **Debugging:** Software developers need to know how to debug code so that errors can be addressed and fixed. Strong debugging skills and strategies make the process of debugging quick and effective.  
 
 ### Non-Technical Skills:
 <img src="https://kissflow.com/hubfs/What-is-Collaboration-768x407.jpg" width="800">
 
 * **Collaboration:** Software developers work in teams, and it is important to have the collaboration skills necessary to create a positive and productive working environment.
-* **Problem Solving:** Software developers need to have the curiosity and the capacity to solve the problems faced by a company’s users to create a successful progam. 
+* **Problem Solving:** Software developers need to have the curiosity and the capacity to solve the problems faced by a company’s users to create a successful program. 
 * **Time Management:** Software developers have to have proper time management skills, as they are often allocated more than one task at a time. This will allow for high productivity to meet deadlines.
 
 ## **What Education Is Required?**
@@ -39,7 +39,7 @@ The Computer Science program at The University of Waterloo offers a four-year re
 ### Entrance Requirements:
 To be considered for admission into computer science at The University of Waterloo, applicants are required to take 6 U/M Grade 12 courses that include Calculus and Vectors, Advanced Functions, and Grade 12 English. Applicants are also required to fill out the Admissions Information Form (AIF) for their application to be considered. 
 
-Although not mandatory, applicants are encouraged to write the Euclid and Canadian Senior Mathematics Contests, the Canadian Computing Competition, and take Grade 11 U Introduction to Computer Science.
+Although not mandatory, applicants are encouraged to write the Euclid and Canadian Senior Mathematics Contests and the Canadian Computing Competition. They are also encouraged to take Grade 11 U Introduction to Computer Science.
 
 <img src="https://uwaterloo.ca/news/sites/ca.news/files/styles/feature_large/public/dsc_1602_full_res_1.jpg?itok=-F8flulW" width="800">
 
